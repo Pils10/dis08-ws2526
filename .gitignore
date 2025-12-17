@@ -207,3 +207,9 @@ __marimo__/
 
 
 .DS_Store
+
+
+# Remove Shell Lesson Content
+
+shell-lesson.zip
+shell-lesson/
