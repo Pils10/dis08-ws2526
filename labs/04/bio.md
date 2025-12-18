@@ -1,5 +1,5 @@
 # Hello
-## Thanks for reading this bio
+## Thanks for reading this bio, it's not as good as it can be, but who knows, it might get better over time.
 It is written in Json, just for fun:
 ```json
 {
