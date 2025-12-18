@@ -1,1 +1,1 @@
-Of cause, this document is conflicting.
+Of cause, this document is deliberately conflicting.
