@@ -6,7 +6,8 @@ It is written in Json, just for fun:
   "about": {
     "summary": "Hi, I love coding, learning new things and beeing courious.",
     "core_interests": ["Coding", "Learning New Things", "Sending"],
-    "values": ["Honesty","Hopeness","Supportive"]
+    "values": ["Honesty","Hopeness","Supportive"],
+	"funfacts": ["Spam is annoying","Videogames are one of the least inflated goods in our economy","Dating apps want you to keep searching"]
   },
   "skills": {
     "frontend": {
