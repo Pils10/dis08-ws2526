@@ -22,15 +22,15 @@ You will use this repository to document your **lab assignments** throughout the
 | No. | Date | Topic | Directory | Task | Completed |
 | --- | ---| --- | --- | --- | --- |
 | **1** | 2025/10/16 | Open Source Software and Hosting | [`./labs/01/`](./labs/01/) | [:link:](https://gist.github.com/breuert/881ad6d93aa5027c3cb7217e6ec90941) | ✔ |
-| **2** | 2025/10/23 | Open Data | [`./labs/02/`](./labs/02/) | [:link:](https://gist.github.com/breuert/02fcce56cb75cc75e1105f491a2f6e84) | ❌ |
+| **2** | 2025/10/23 | Open Data | [`./labs/02/`](./labs/02/) | [:link:](https://gist.github.com/breuert/02fcce56cb75cc75e1105f491a2f6e84) | ✔ |
 | **3** | 2025/10/30 | Command Line Interface | [`./labs/03/`](./labs/03/) | [:link:](https://gist.github.com/breuert/4e2ce2387332807c5e767d2793952540) | ✔ |
-| **4** | 2025/11/06 | Version Control Software | [`./labs/04/`](./labs/04/) | [:link:](https://gist.github.com/breuert/4f0345a6478d286f7e45d06dea75c3f4) | ❌ |
+| **4** | 2025/11/06 | Version Control Software | [`./labs/04/`](./labs/04/) | [:link:](https://gist.github.com/breuert/4f0345a6478d286f7e45d06dea75c3f4) | ✔ |
 | **5** | 2025/11/13 | Web Scraping | [`./labs/05/`](./labs/05/) | [:link:](https://gist.github.com/breuert/6853f8d1d8c83bdf85c7be74c75ff401) | ✔ |
 | **6** | 2025/11/20 | Data Cleaning | [`./labs/06/`](./labs/06/) | [:link:](https://gist.github.com/breuert/6dc30144c36a849b31d54ac65405405e) | ✔ |
 | **7** | 2025/12/04 | Data Structures | [`./labs/07/`](./labs/07/) | [:link:](https://gist.github.com/breuert/c4ab7ef1bdc2ef4da3aba9b14e99a3f6) | ✔ |
-| **8** | 2025/12/11 | Data Science Packages | [`./labs/08/`](./labs/08/) | [:link:](https://gist.github.com/breuert/859c67cd96437e90fb39f94d12f6bb7c) | ❌ |
-| **9** | 2025/12/18 | Hypothesis Testing | [`./labs/09/`](./labs/09/) | [:link:](https://gist.github.com/breuert/2f4c0807fcd377b7bdba57c3872c4fb4) | ❌ |
-| **10** | 2025/01/08 | Machine Learning | [`./labs/10/`](./labs/10/) | [:link:](https://gist.github.com/breuert/00e13810eb3ec17e7a3701a935361474) | ❌ |
+| **8** | 2025/12/11 | Data Science Packages | [`./labs/08/`](./labs/08/) | [:link:](https://gist.github.com/breuert/859c67cd96437e90fb39f94d12f6bb7c) | ✔ |
+| **9** | 2025/12/18 | Hypothesis Testing | [`./labs/09/`](./labs/09/) | [:link:](https://gist.github.com/breuert/2f4c0807fcd377b7bdba57c3872c4fb4) | ✔ |
+| **10** | 2025/01/08 | Machine Learning | [`./labs/10/`](./labs/10/) | [:link:](https://gist.github.com/breuert/00e13810eb3ec17e7a3701a935361474) | ✔ |
 
 
 > [!IMPORTANT]
